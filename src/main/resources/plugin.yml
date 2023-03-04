@@ -1,0 +1,6 @@
+name: too-many-phantoms
+version: '${project.version}'
+main: cf.caffeinated01.toomanyphantoms.Too_many_phantoms
+api-version: 1.19
+authors: [caffeinated01 DiffuseHyperion]
+description: watch out for the phantoms
