@@ -8,6 +8,6 @@ public class FakeTntPrank implements Prank{
     @Override
     public void playPrank(Player player) {
         TNTPrimed primedTnt = (TNTPrimed) player.getWorld().spawnEntity(player.getLocation().add(0, 5, 0), EntityType.PRIMED_TNT);
-        primedTnt.setYield(0); // fuck you spigot
+        primedTnt.setYield(0); // fuck you spigot`
     }
 }
